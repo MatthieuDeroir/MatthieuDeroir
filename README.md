@@ -1,8 +1,4 @@
 ### Hi there 👋
-<!--
-**MatthieuDeroir/MatthieuDeroir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 
 # 💫 About Me:
 🧑‍💻 Fullstack & Software Dev<br>⚡️ Currently working on multiple school & work projects<br>😎 MERN fav tech stack<br>😰 <CSS><br>🌱 Currently learning C#/.NET <br>

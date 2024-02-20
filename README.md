@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💬 About Me:
-📍 Fullstack & Software Dev<br>⚡️Working on multiple school & work projects<br>💻 MERN current tech stack<br>🚧 CSS<br>🌱 Currently learning C#/.NET <br>
+📍 Backend Dev<br>⚡️Working on multiple school & work projects<br>💻 MERN current tech stack<br>🌱 Currently learning C#/.NET <br>
 
 
 ## 🌐 Socials:

@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💬 About Me:
-📍 Backend Dev<br>⚡️Working on multiple school & work projects<br>💻 MERN current tech stack<br>🌱 Currently learning C#/.NET <br>
+📍 Embedded Software & Web Dev<br>⚡️Working on multiple school & work projects<br>💻 SERN current tech stack<br>🌱 Currently learning C#/.NET <br>
 
 
 ## 🌐 Socials:
